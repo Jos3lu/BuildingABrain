@@ -8,4 +8,4 @@ jupyter notebook
 ```
 &emsp;Then, open the <mark>BuildingABrain.ipynb</mark> file.
 
-3. Run in Google Colaboratory: You can also run the notebook directly in Google Colaboratory.
+3.<b> Run in Google Colaboratory:</b> You can also run the notebook directly in Google Colaboratory.
